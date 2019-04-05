@@ -10,7 +10,7 @@
 
 
 ### Призы
-<span style="font-size:21px">:rage2: :moneybag: :dollar:  Призы на сумму 200'000 рублей :dollar: :moneybag: :rage4:</span>
+<span style="font-size:50px">:rage2: :moneybag: :dollar:  Призы на сумму 200'000 рублей :dollar: :moneybag: :rage4:</span>
 ### Партнеры
 - Аврора
 - TUI 
